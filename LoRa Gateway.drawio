@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T19:50:37.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="nYraIz2r9HEF2k33Z-8v" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-29T20:02:18.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZZOz8ntpPJ939ksUxxqq" version="14.1.3" type="github">
   <diagram id="vkvLSj4ITJM3TAlvrSP8" name="Page-1">
-    <mxGraphModel dx="723" dy="410" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="iYk5aMBg0eBxxjY1zcXO-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="iYk5aMBg0eBxxjY1zcXO-7" target="iYk5aMBg0eBxxjY1zcXO-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iYk5aMBg0eBxxjY1zcXO-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;3% &amp;lt; Độ ẩm &amp;lt; Độ ẩm lý tưởng&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;gradientColor=#F0F0F0;" vertex="1" parent="1">
+        <mxCell id="iYk5aMBg0eBxxjY1zcXO-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;3% &amp;lt; Độ ẩm &amp;lt; Độ ẩm lý tưởng?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;gradientColor=#F0F0F0;" vertex="1" parent="1">
           <mxGeometry x="489" y="417" width="192" height="66" as="geometry" />
         </mxCell>
         <mxCell id="iYk5aMBg0eBxxjY1zcXO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="iYk5aMBg0eBxxjY1zcXO-9">
